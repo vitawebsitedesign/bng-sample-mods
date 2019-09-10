@@ -8,8 +8,8 @@ namespace BallisticNG.CodeMods
     {
         public override void OnRegistered()
         {
-            RegisterMod("my mod", "author", "1.0");
-            GameObject customShield = new GameObject("[ my mod ]");
+            RegisterMod("white shield", "author", "1.0");
+            GameObject customShield = new GameObject("[ white shield ]");
             Object.DontDestroyOnLoad(customShield);
             customShield.AddComponent<CustomShieldBehaviour>();
         }

@@ -16,7 +16,7 @@ Then open BNG & enable the mod via the mods menu.
 
 ### With Git
 ```bash
-git@github.com:vitawebsitedesign/bng-sample-mods.git
+git clone git@github.com:vitawebsitedesign/bng-sample-mods.git
 ```
 
 Then open BNG & enable the mod via the mods menu.

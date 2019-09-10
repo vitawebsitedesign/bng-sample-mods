@@ -9,9 +9,9 @@ namespace BallisticNG.CodeMods
         public override void OnRegistered()
         {
             RegisterMod("mod name", "author", "1.0");
-            GameObject customShield = new GameObject("[ mod name ]");
-            Object.DontDestroyOnLoad(customShield);
-            customShield.AddComponent<MyModRegisterBehaviour>();
+            GameObject myMod = new GameObject("[ mod name ]");
+            Object.DontDestroyOnLoad(myMod);
+            myMod.AddComponent<MyModRegisterBehaviour>();
         }
     }
 

@@ -1,4 +1,4 @@
-[preview](https://raw.githubusercontent.com/vitawebsitedesign/bng-sample-mods/master/white-shield/preview.png)
+![preview](https://raw.githubusercontent.com/vitawebsitedesign/bng-sample-mods/master/white-shield/preview.png "preview")
 
 Sets shield colour to white
 
